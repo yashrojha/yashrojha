@@ -3,7 +3,7 @@
 ## <p align="center"> Bringing ideas to life through code-driven digital experiences.</p>
 
 <p align="center">
-  <a href="https://yashojha.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white"/></a>
+  <a href="https://yashojha.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=biolink&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yashrojha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:info@yashojha.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/yashrojha"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
