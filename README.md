@@ -3,6 +3,7 @@
 ## <p align="center"> Bringing ideas to life through code-driven digital experiences.</p>
 
 <p align="center">
+  <a href="https://yashojha.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yashrojha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:info@yashojha.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/yashrojha"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -36,8 +37,10 @@ My **passion** lies in **transforming ideas into robust, user-centric solutions*
   <img src="https://img.shields.io/badge/TypeScript-3077C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SEO-FF9900?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -47,33 +50,34 @@ My **passion** lies in **transforming ideas into robust, user-centric solutions*
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
 ---
 
 ## 🌟 Expertise
 
-### ⚡ Next.js Expertise  
-- Building fast and scalable full-stack applications  
-- Seamless API integration with server-side rendering (SSR) & static site generation (SSG)  
-- Optimized routing and middleware handling  
-- Tailored Next.js component and page development  
-- Ensuring high-performance and SEO-friendly Next.js applications  
-- Mastering incremental static regeneration (ISR) for real-time updates  
-- Smooth integration with Prisma, MySQL, and PostgreSQL  
+### ⚡ Next.js Expertise
 
-### ⚛️ React.js Proficiency  
-- Crafting dynamic and interactive React applications  
-- Developing reusable components for efficient UI development  
-- Implementing state management with Redux, Context API, or Zustand  
-- Optimizing React apps for performance and scalability  
-- Seamless API handling with Axios & Fetch  
-- Enhancing user experience with animations and UI libraries (Framer Motion, MUI, Tailwind)  
-- Converting designs (PSD, Figma, Sketch) to pixel-perfect React components  
+- Building fast and scalable full-stack applications
+- Seamless API integration with server-side rendering (SSR) & static site generation (SSG)
+- Optimized routing and middleware handling
+- Tailored Next.js component and page development
+- Ensuring high-performance and SEO-friendly Next.js applications
+- Mastering incremental static regeneration (ISR) for real-time updates
+- Smooth integration with Prisma, MySQL, and PostgreSQL
+
+### ⚛️ React.js Proficiency
+
+- Crafting dynamic and interactive React applications
+- Developing reusable components for efficient UI development
+- Implementing state management with Redux, Context API, or Zustand
+- Optimizing React apps for performance and scalability
+- Seamless API handling with Axios & Fetch
+- Enhancing user experience with animations and UI libraries (Framer Motion, MUI, Tailwind)
+- Converting designs (PSD, Figma, Sketch) to pixel-perfect React components
 
 ### 🚀 Shopify Expertise
+
 - Shopify Store Setup & Customization
 - Tailored Theme Development
 - Seamless PSD, HTML to Shopify Transitions
@@ -84,6 +88,7 @@ My **passion** lies in **transforming ideas into robust, user-centric solutions*
 - Smooth migration from WooCommerce (WordPress) to Shopify
 
 ### 🌐 WordPress Proficiency
+
 - Crafting WordPress Websites with finesse
 - Personalizing WordPress Themes
 - Troubleshooting Design or Coding issues
@@ -96,6 +101,7 @@ My **passion** lies in **transforming ideas into robust, user-centric solutions*
 - Seamless transitions from Squarespace or Wix to WordPress
 
 ### 🖥️ PHP Prowess
+
 - Proficient in developing PHP-based sites, CMS, and web applications
 - Resolving PHP site coding issues
 - Optimizing PHP-based sites and applications
@@ -105,15 +111,18 @@ My **passion** lies in **transforming ideas into robust, user-centric solutions*
 ## 📌 Projects
 
 ### E-commerce Solution for Maroon Saga
+
 **👉🏻 Tech Stack:** Django, jQuery, Ajax, Javascript, HTML & CSS<br>
 **👉🏻 Description:** Developed and Designed a fully customized e-commerce store based on Django for Maroon Saga, focusing on seamless user experience and robust functionality and boosting business online!
 
 ### Custom WordPress E-commerce Website for Rohan Prakashan
+
 **👉🏻 Tech Stack:** WordPress, WooCommerce, Slider Revolution, Ajax, jQuery, PHP, HTML5, CSS3<br>
 **👉🏻 Description:** Redesigned their e-commerce store in WordPress, and made a custom coupon and discount plugin to add discounts based on Membership roles.<br>
 **👉🏻 What I did:** Redesigned their store, Custom Plugin Development, WooCommerce integration, SEO optimization, and Security Enhancements
 
 ### Shopify E-commerce store for Utensio - The choice of artisans
+
 **👉🏻 Tech Stack:** Shopify, Liquid, jQuery, Ajax, CSS3 HTML5<br>
 **👉🏻 Description:** Made this e-commerce website for Utensio in Shopify, Made custom sections for showcasing collections, brands and the storyline of Utensio. I also made an auto recommendation upsell section in the cart, and a discount banner in the cart. I also enabled the International Store and Payment gateway for the same.<br>
 **👉🏻 What I did:** Website Designing, Seo Optimisations, Custom Feature and Theme Customisations
@@ -134,6 +143,7 @@ My **passion** lies in **transforming ideas into robust, user-centric solutions*
 ---
 
 ## 💡 At the End
+
 ⭐ Feel free to Star my repositories if you find it useful!<br>
 📌 Always eager to collaborate, connect, and engage in meaningful discussions!
 
